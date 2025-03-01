@@ -1,5 +1,4 @@
-# CS-330
-Computer graphics and visualization
+# CS-330 / Computer graphics and visualization
 
 <b>Approaching Software Design</b>
 
